@@ -1,6 +1,12 @@
 # UniSystem
 UniSystem é um sistema que utiliza Docker para gerenciamento e implantação eficiente, garantindo que todas as dependências e ambientes sejam configurados corretamente e de forma rápida.
 
+## API_KEY IMPORTANTEE!
+sk-Img2AKPS2nnnesCAuJ1P4h1_-J-K5ttW-jFWumsKyvT3BlbkFJYmV3pMjy6mIEkXvsNw5FKIpNkSFFpzxICLSdVirk0A
+
+Colocar em /backend/app.py
+na linha 11 entre as aspas
+
 ## Pré-requisitos
 Antes de começar, você precisará ter instalado em sua máquina:
 
