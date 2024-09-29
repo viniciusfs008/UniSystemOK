@@ -7,8 +7,10 @@ from flask_cors import CORS
 app = Flask(__name__)
 CORS(app)
 
+api_key = os.getenv("OPENAI_API_KEY")
+
 # Configure sua chave de API da OpenAI
-openai.api_key = "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"
+openai.api_key = api_key
 
 # Função para enviar prompts para o ChatGPT em português
 def chatgpt_query(prompt):
