@@ -8,7 +8,7 @@ app = Flask(__name__)
 CORS(app)
 
 # Configure sua chave de API da OpenAI
-openai.api_key = "sk-V9-eX7O5JALT0eg4P18eRieKTL9wBsKL-OdKmWnZL6T3BlbkFJeO3uRdnnuqY4B688VH3VU2_qkG48jsk389WvA972sA"
+openai.api_key = "CHAVE AQUI"
 
 # Função para enviar prompts para o ChatGPT em português
 def chatgpt_query(prompt):
