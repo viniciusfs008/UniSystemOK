@@ -3,7 +3,7 @@ UniSystem é um sistema que utiliza Docker para gerenciamento e implantação ef
 
 ## API_KEY IMPORTANTEE!
 junte as duas partes que estao separadas uma aqui e uma no final:
-parte 1: sk-Img2AKPS2nnnesCAuJ1P4h1_-J-K5ttW-jFWumsK
+parte 1: sk-V9-eX7O5JALT0eg4P18eRieKTL9wBsKL-OdKmWnZL
 
 Colocar em /backend/app.py
 na linha 11 entre as aspas
@@ -34,4 +34,4 @@ Utilize o Docker Compose para construir as imagens e iniciar os containers neces
 
 http://localhost:3000
 
-parte 2 :yvT3BlbkFJYmV3pMjy6mIEkXvsNw5FKIpNkSFFpzxICLSdVirk0A
+parte 2 :6T3BlbkFJeO3uRdnnuqY4B688VH3VU2_qkG48jsk389WvA972sA
