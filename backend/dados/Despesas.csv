@@ -1,0 +1,21 @@
+ID,Descrição,TipoDespesa,Valor,DataVencimento,DataPagamento,Fornecedor,Periodicidade,Departamento
+1,Manutenção de Equipamentos,Manutenção,2500.00,2024-09-30,2024-09-28,TecManutenção,Mensal,Engenharia Clínica
+2,Conta de Luz,Utilidade Pública,3200.00,2024-09-15,2024-09-14,Elektro,Mensal,Administração
+3,Conta de Água,Utilidade Pública,1500.00,2024-09-10,2024-09-09,Sabesp,Mensal,Administração
+4,Reparos Estruturais,Manutenção,6000.00,2024-08-25,2024-08-24,Construtora Alfa,Eventual,Infraestrutura
+5,Compra de Materiais de Limpeza,Suprimentos,800.00,2024-09-05,2024-09-03,LimpBrasil,Mensal,Serviços Gerais
+6,Manutenção do Ar Condicionado,Manutenção,1200.00,2024-09-20,2024-09-18,ClimaService,Trimestral,Engenharia Clínica
+7,Serviço de Internet,Utilidade Pública,450.00,2024-09-12,2024-09-11,Vivo,Mensal,Administração
+8,Despesas com Telefonia,Utilidade Pública,600.00,2024-09-07,2024-09-06,TIM,Mensal,Administração
+9,Limpeza de Reservatórios,Manutenção,1800.00,2024-09-30,2024-09-28,HidroClean,Semestral,Infraestrutura
+10,Serviço de Jardinagem,Manutenção,700.00,2024-09-22,2024-09-21,GreenLife,Mensal,Infraestrutura
+11,Segurança Patrimonial,Serviços,2500.00,2024-09-30,2024-09-28,SegurProtec,Mensal,Administração
+12,Compra de Materiais de Escritório,Suprimentos,900.00,2024-09-05,2024-09-03,Papelaria ABC,Mensal,Administração
+13,Reparos no Sistema Elétrico,Manutenção,4500.00,2024-08-10,2024-08-09,Eletritech,Eventual,Infraestrutura
+14,Serviço de Limpeza Terceirizada,Serviços,3500.00,2024-09-20,2024-09-18,Limpex,Mensal,Serviços Gerais
+15,Conta de Gás,Utilidade Pública,1100.00,2024-09-08,2024-09-07,Comgás,Mensal,Administração
+16,Despesas com Transporte,Serviços,1500.00,2024-09-25,2024-09-24,TransporBem,Mensal,Administração
+17,Manutenção de Elevadores,Manutenção,5000.00,2024-09-15,2024-09-14,Elevatec,Semestral,Infraestrutura
+18,Compra de Uniformes,Suprimentos,2000.00,2024-09-10,2024-09-09,Uniformes Ltda,Trimestral,Administração
+19,Reforma de Salas,Manutenção,8000.00,2024-08-30,2024-08-28,Construtora Beta,Eventual,Infraestrutura
+20,Serviço de Monitoramento,Serviços,1800.00,2024-09-05,2024-09-03,Monitorar+,Mensal,Administração

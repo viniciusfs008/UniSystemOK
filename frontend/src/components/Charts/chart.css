@@ -1,0 +1,26 @@
+.apexcharts-tooltip {
+  background: var(--background-card) !important;
+  color: var(--text-50) !important;
+  border: 1px solid var(--border-color-filter) !important;
+  box-shadow: none !important;
+}
+
+.apexcharts-tooltip-title {
+  background: var(--background-card-header) !important;
+  color: var(--text-50) !important;
+  border-bottom: 1px solid var(--border-color-filter) !important;
+}
+
+.apexcharts-menu {
+  background: var(--background-card) !important;
+  color: var(--text-50) !important;
+  border: 1px solid var(--border-color-filter) !important;
+}
+
+.apexcharts-menu-item {
+  color: var(--text-50) !important;
+}
+
+.apexcharts-menu-item:hover {
+  background: var(--filter-button-hover) !important;
+}

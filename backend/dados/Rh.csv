@@ -1,0 +1,21 @@
+ID,Nome Completo,Cargo,Departamento,Salario,DataAdmissao,DataNascimento,CPF,Telefone,Email
+1,Ana Silva,Enfermeira,Farmácia,4500.00,2020-05-10,1988-03-12,123.456.789-00,(11) 98765-4321,ana.silva@hospital.com
+2,Pedro Souza,Médico,Emergência,12000.00,2018-09-01,1975-07-22,234.567.890-11,(11) 91234-5678,pedro.souza@hospital.com
+3,Clara Lima,Técnica de Enfermagem,Almoxarifado,3000.00,2021-06-15,1992-11-05,345.678.901-22,(11) 99876-5432,clara.lima@hospital.com
+4,Rafael Alves,Administrativo,Administração,3500.00,2019-11-20,1985-04-14,456.789.012-33,(11) 97654-3210,rafael.alves@hospital.com
+5,Maria Oliveira,Recepcionista,Recepção,2500.00,2022-01-10,1990-08-30,567.890.123-44,(11) 92345-6789,maria.oliveira@hospital.com
+6,Fernando Santos,Farmacêutico,Farmácia,5000.00,2019-03-05,1982-02-20,678.901.234-55,(11) 93456-7890,fernando.santos@hospital.com
+7,Larissa Costa,Fisioterapeuta,Reabilitação,4500.00,2020-07-25,1989-05-10,789.012.345-66,(11) 94567-8901,larissa.costa@hospital.com
+8,João Pereira,Segurança,Segurança,2200.00,2017-12-15,1984-10-05,890.123.456-77,(11) 95678-9012,joao.pereira@hospital.com
+9,Aline Fernandes,Coordenadora de RH,Administração,7000.00,2016-02-01,1980-09-18,901.234.567-88,(11) 96789-0123,aline.fernandes@hospital.com
+10,Marcelo Cardoso,Limpador,Serviços Gerais,1800.00,2021-12-01,1995-06-25,012.345.678-99,(11) 97890-1234,marcelo.cardoso@hospital.com
+11,Juliana Ribeiro,Nutricionista,Nutrição,4800.00,2019-04-10,1991-02-15,111.222.333-00,(11) 98765-9876,juliana.ribeiro@hospital.com
+12,Carlos Mendes,Técnico em Radiologia,Imagem,4200.00,2020-02-20,1983-08-09,222.333.444-11,(11) 91234-9876,carlos.mendes@hospital.com
+13,Patrícia Lopes,Pediatra,Emergência,11000.00,2017-10-12,1978-11-22,333.444.555-22,(11) 99876-5678,patricia.lopes@hospital.com
+14,Roberto Martins,Contador,Administração,5200.00,2018-06-05,1981-12-14,444.555.666-33,(11) 97654-5678,roberto.martins@hospital.com
+15,Mariana Duarte,Psicóloga,Reabilitação,5000.00,2021-05-15,1986-03-30,555.666.777-44,(11) 92345-5678,mariana.duarte@hospital.com
+16,Lucas Carvalho,Motorista,Serviços Gerais,2500.00,2021-09-25,1990-01-15,666.777.888-55,(11) 93456-5678,lucas.carvalho@hospital.com
+17,Beatriz Almeida,Auxiliar de Limpeza,Serviços Gerais,1900.00,2019-03-10,1994-07-20,777.888.999-66,(11) 94567-5678,beatriz.almeida@hospital.com
+18,José Nogueira,Supervisor de Manutenção,Infraestrutura,5400.00,2018-09-18,1982-05-12,888.999.000-77,(11) 95678-5678,jose.nogueira@hospital.com
+19,Renata Torres,Assistente Social,Serviço Social,4300.00,2020-08-10,1987-04-25,999.000.111-88,(11) 96789-5678,renata.torres@hospital.com
+20,Ricardo Silva,Coordenador de TI,Tecnologia,6500.00,2016-12-01,1983-11-01,000.111.222-99,(11) 97890-5678,ricardo.silva@hospital.com

@@ -1,0 +1,38 @@
+.button-expand {
+    font-size: 20px;
+    margin-left: 10px;
+    color: var(--text-card);
+    transition: all 0.3s ease-in-out;
+}
+
+.button-expand:hover {
+    cursor: pointer;
+    color: var(--text-50);
+}
+
+.modal-body {
+    background-color: var(--background-card);
+    color: var(--text-50);
+    transition: all 0.3s ease-in-out;
+}
+
+.modal-header {
+    background-color: var(--background-card);
+    color: var(--text-50);
+    transition: all 0.3s ease-in-out;
+}
+
+.button-close {
+    color: var(--text-50);
+    transition: all 0.3s ease-in-out;
+    font-size: 22px;
+}
+
+.button-close:hover {
+    cursor: pointer;
+    color: var(--red);
+}
+
+.modal-header h1 {
+    font-weight: 600;
+}

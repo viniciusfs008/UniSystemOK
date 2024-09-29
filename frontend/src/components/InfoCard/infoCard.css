@@ -1,0 +1,20 @@
+.infoCard-box {
+  background-color: var(--background-card);
+  border-radius: 8px;
+  color: var(--text-50);
+  transition: all 0.3s ease-in-out;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+  height: 100%;
+}
+
+.infoCard-body h5 {
+  color: var(--text-card);
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.infoCard-body h4 {
+  font-size: 25px;
+  font-weight: 400;
+  text-align: center;
+}

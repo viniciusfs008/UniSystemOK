@@ -1,0 +1,82 @@
+.home_page h2 {
+    color: var(--text-50);
+    font-size: 28px;
+}
+
+p {
+    color: var(--text-p-home);
+}
+
+.logos-edu {
+    height: 130px;
+    overflow: scroll;
+}
+
+.logo-edu {
+    height: 100%;
+}
+
+.foto {
+    width: 100%;
+    max-width: 200px;
+    aspect-ratio: 1/1;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.links i {
+    font-size: 24px;
+    color: var(--text-p-home);
+     transition: 0.3s ease-in-out;
+}
+
+.lattesIcon {
+    transition: 0.3s ease-in-out;
+    fill: var(--text-p-home) !important;
+}
+
+.nome {
+    font-size: 18px;
+    color: var(--text-50);
+    font-weight: 600;
+    transition: 0.3s ease-in-out;
+}
+
+.cargo {
+    font-size: 15px;
+    color: var(--text-p-home);
+    transition: 0.3s ease-in-out;
+}
+
+.home-card {
+    height: 100%;
+    min-width: fit-content;
+}
+
+.card-colab {
+    width: 300px;
+}
+
+.icon-text-home {
+    font-size: 20px;
+    color: var(--text-50);
+    transition: 0.3s ease-in-out;
+}
+
+.home-card a i:hover {
+    color: var(--sidebar-sub-item-hover);
+}
+
+a svg:hover{
+    .lattesIcon {
+        fill: var(--sidebar-sub-item-hover) !important;
+    }
+}
+
+.texto {
+    text-align: justify;
+}
+
+.widthHome {
+    max-width: 1650px;
+}

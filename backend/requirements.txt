@@ -1,0 +1,12 @@
+pandas
+flask
+flask-cors
+langchain 
+openai 
+weaviate-client>=4.0.0
+wikipedia 
+tiktoken 
+langchain-openai
+langchain-community
+gunicorn
+pypdf

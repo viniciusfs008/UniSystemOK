@@ -1,0 +1,21 @@
+ID,Item,Tipo,Quantidade,ValorUnitario,DataValidade,Fornecedor,DataEntrada,Departamento,QuantidadeMinima
+1,Paracetamol,Medicamento,150,2.50,2025-05-15,Farmalab,2024-09-01,Farmácia,50
+2,Álcool Gel,Material,100,10.00,2025-12-31,Bioquímica,2024-08-20,Almoxarifado,20
+3,Seringa 10ml,Material,200,1.20,N/A,MedDistribuidora,2024-09-10,Almoxarifado,50
+4,Ibuprofeno,Medicamento,75,3.00,2025-06-30,Farmalab,2024-07-15,Farmácia,30
+5,Luva Cirúrgica M,Material,500,0.50,N/A,MedEquipamentos,2022-09-20,Almoxarifado,100
+6,Amoxicilina,Medicamento,120,4.50,2025-08-15,FarmaVita,2022-08-01,Farmácia,40
+7,Soro Fisiológico 500ml,Medicamento,180,6.00,2025-04-01,HidroMed,2022-08-25,Farmácia,60
+8,Atadura 10cm,Material,300,1.00,N/A,MedDistribuidora,2023-09-05,Almoxarifado,100
+9,Dipirona,Medicamento,200,2.20,2025-03-10,Farmalab,2023-09-12,Farmácia,80
+10,Máscara N95,Material,50,15.00,N/A,SafeMed,2023-09-01,Almoxarifado,10
+11,Glicose 5%,Medicamento,100,3.50,2025-10-20,Farmavida,2024-09-15,Farmácia,30
+12,Cateter IV,Material,200,5.00,N/A,Bioquímica,2024-08-25,Almoxarifado,50
+13,Aspirina,Medicamento,300,2.00,2025-09-12,Farmalab,2024-07-20,Farmácia,100
+14,Cefalexina,Medicamento,180,8.00,2025-07-01,FarmaVita,2024-05-10,Farmácia,60
+15,Bisturi,Material,75,12.50,N/A,MedEquipamentos,2023-11-10,Almoxarifado,20
+16,Termômetro Digital,Material,40,25.00,N/A,SafeMed,2023-10-20,Almoxarifado,10
+17,Soro Fisiológico 250ml,Medicamento,150,4.50,2025-03-01,HidroMed,2023-10-10,Farmácia,50
+18,Luva Cirúrgica G,Material,300,0.55,N/A,MedDistribuidora,2023-09-15,Almoxarifado,100
+19,Oximetro,Material,20,35.00,N/A,MedEquipamentos,2023-12-05,Almoxarifado,5
+20,Diazepam,Medicamento,50,7.50,2025-11-30,Farmalab,2023-08-25,Farmácia,20

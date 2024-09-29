@@ -1,0 +1,69 @@
+.list-itens {
+    /*propriedades da lista inteira*/
+    list-style: none;
+}
+
+.item {
+    /*propriedades do item da lista*/
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-weight: 700;
+    transition: all 0.3s ease-in-out;
+    padding: 5px 15px;
+    border-radius: 4px;
+    text-decoration: none;
+}
+
+.item:hover {
+    /*muda de cor qunado passa o mouse por cima*/
+    background-color: var(--sidebar-item-hover);
+    cursor: pointer;
+}
+
+.item span {
+    /*propriedades do texto do item*/
+    font-size: 20px;
+}
+
+.item i {
+    /*propriedades do icone antes do texto*/
+    font-size: 23px;
+}
+
+.item .bi-chevron-down {
+    /*proriedades do icone de setinha*/
+    margin-right: 0;
+    margin-left: auto;
+    font-size: 18px;
+}
+
+.item:not(.collapsed) .bi-chevron-down {
+    /*rotaciona o icone da setinha conforme abre e fecha*/
+    transform: rotate(180deg);
+}
+
+.sub-item li {
+    margin: 0;
+    padding: 2px 0;
+}
+
+.sub-item a {
+    text-decoration: none;
+}
+
+.sub-item i {
+    font-size: 16px;
+}
+
+.sub-item-intern:hover{
+    i {
+        color: var(--sidebar-sub-item-hover);
+        cursor: pointer;
+    }
+    span {
+        color: var(--sidebar-sub-item-hover);
+        cursor: pointer;
+    }
+}

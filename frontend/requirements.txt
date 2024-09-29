@@ -1,0 +1,12 @@
+react
+react-dom
+axios
+apexcharts
+react-apexcharts
+bootstrap
+react-bootstrap
+bootstrap-icons
+remixicon
+echarts
+boxicons
+@babel/plugin-proposal-private-property-in-object

@@ -1,0 +1,37 @@
+.header {
+  transition: 0.3s ease-in-out;
+  z-index: 100;
+  height: 60px;
+  background-color: var(--background-side);
+  width: 100%;
+}
+
+.header h1 {
+  color: var(--text-side);
+}
+
+.header-title i {
+  font-size: 32px;
+  cursor: pointer;
+  color: var(--text-side);
+  transition: 0.3s ease-in-out;
+}
+
+.header-title i:hover {
+  color: var(--sidebar-sub-item-hover);
+}
+
+.nav {
+  color: var(--text-side);
+  transition: 0.3s ease-in-out;
+}
+
+.nav i {
+  font-size: 28px;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+
+.nav i:hover {
+  color: var(--sidebar-sub-item-hover);
+}

@@ -1,0 +1,85 @@
+.sidebar {
+  position: fixed;
+  top: 60px;
+  left: 0;
+  bottom: 0;
+  width: 280px;
+  z-index: 200;
+  transition: all 0.3s ease-in-out;
+  padding: 10px;
+  scrollbar-color: transparent;
+  background-color: var(--background-side);
+}
+
+@media (max-width: 1200px) {
+  #main {
+    margin-left: 0;
+  }
+  .sidebar {
+    left: -280px;
+  }
+  .toggle-sidebar .sidebar {
+    left: 0;
+  }
+}
+
+@media (min-width: 1201px) {
+  #main {
+    margin-left: 280px;
+  }
+  .sidebar {
+    left: 0;
+  }
+  .toggle-sidebar .sidebar{
+    left: -280px;
+  }
+}
+
+@media (min-width: 901px) {
+  .toggle-sidebar #main{
+    margin-left: 0;
+  }
+}
+
+.sidebar span {
+  /*propriedades de tudo q é texto dentro da sidebar*/
+  color: var(--text-side);
+  align-self: center;
+  font-size: 18px;
+  transition: 0.3s ease-in-out;
+}
+
+.sidebar i {
+  /*propriedades de tudo que é icone dentro da sidebar*/
+  color: var(--text-side);
+  padding-right: 8px;
+  font-size: 18px;
+  align-self: center;
+  transition: 0.3s ease-in-out;
+}
+
+.sidebar-nav {
+  /*propriedade da div que contem os itens de navegaçao*/
+  padding: 0;
+  list-style: none;
+  transition: 0.3s ease-in-out;
+}
+
+.sidebar-nav li {
+  /*propriedades de cada item da sidebar se ele nao tiver um className*/
+  padding: 0;
+  list-style: none;
+  transition: 0.3s ease-in-out;
+}
+
+.home {
+  /*propriedades do item home*/
+  text-decoration: none;
+  transition: 0.3s ease-in-out;
+  color: var(--text-side);
+  width: 100%;
+  padding-left: 18px;
+  font-size: 15px;
+  font-weight: 500; 
+}
+/* parte nao completa tem que terminar de configurar essas partes*/
