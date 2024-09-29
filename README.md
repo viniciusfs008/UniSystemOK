@@ -22,7 +22,9 @@ Clone este repositório:
 
     git clone https://github.com/viniciusfs008/UniSystem.git
     cd UniSystem
-    ./config.sh
+    ./config.sh (caso nao tenha permissao use o de baixo)
+    chmod +x ./config.sh && ./config.sh
+
 
 Construir e subir os containers Docker:
 
